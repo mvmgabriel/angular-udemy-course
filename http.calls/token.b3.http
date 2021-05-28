@@ -1,0 +1,5 @@
+POST https://api-sinacor.cert.netb3.com.br/infra/api/v1/oauth/token HTTP/1.1
+grant_type=client_credentials&client_id=78D39EF72AE4A6CA30145892.SINACOR&client_secret=8C564E18B76533863E55166E7C1AB2DF1EA7B7759FE2E048331F45B01F71D5B9
+Content-Type:  text/plain
+Accept: application/json
+
