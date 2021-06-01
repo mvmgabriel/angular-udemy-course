@@ -33,3 +33,6 @@
 [0mGET /restaurants [36m304[0m 6.636 ms - -[0m
 [0mGET /restaurants/ice-cream [32m200[0m 6.760 ms - 279[0m
 [0mGET /restaurants/ice-cream/menu [32m200[0m 13.473 ms - 707[0m
+[0mGET /restaurants [36m304[0m 9.747 ms - -[0m
+[0mGET /restaurants/bread-bakery [36m304[0m 9.304 ms - -[0m
+[0mGET /restaurants/bread-bakery/menu [36m304[0m 11.849 ms - -[0m
