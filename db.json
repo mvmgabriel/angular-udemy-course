@@ -370,5 +370,62 @@
       "restaurantId": "tasty-treats"
     }
   ],
-  "orders": []
+  "orders": [
+    {
+      "address": "Rua São Demétrio",
+      "number": "52",
+      "optional": "Próximo ao Extra Tiquatira",
+      "paymentOpt": "MON",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "capp"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "address": "Rua Edimburgo",
+      "number": "110",
+      "optional": "Cangaiba",
+      "paymentOpt": "CRE",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "cup-cake"
+        },
+        {
+          "quantity": 1,
+          "menuId": "donut"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "address": "Rua São Demétrio",
+      "number": "52",
+      "optional": "",
+      "paymentOpt": "REF",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "capp"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "address": "Rua São Demétrio",
+      "number": "52",
+      "optional": "",
+      "paymentOpt": "REF",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "cup-cake"
+        }
+      ],
+      "id": 4
+    }
+  ]
 }
